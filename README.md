@@ -5,7 +5,8 @@
 <p align="center">
   <img src="docs/logo.svg" alt="PlayitLoud logo" width="96"><br>
   <strong>An Android music player that streams from your own Google Drive.</strong><br>
-  No server, no subscription, no music stored on the phone beyond a small self-cleaning cache.
+  No server, no subscription, no music stored on the phone beyond a small self-cleaning cache.<br>
+  <a href="https://sankettheinventor.github.io/PlayitLoud/">Website</a> · <a href="https://sankettheinventor.github.io/PlayitLoud/#docs">Setup guide</a>
 </p>
 
 <p align="center">
